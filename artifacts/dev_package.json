@@ -1,0 +1,51 @@
+{
+	"id": "ed38db07-4846-4dea-a7c8-2d8a2f17371d",
+	"createdAt": "2024-02-19T14:07:37.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-uploadtomedialibrary"
+	},
+	"name": "neptunesoftware-dxp-abb-uploadtomedialibrary",
+	"description": null,
+	"ver": "24.02.19.1409",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "ee11f75c-8911-4ddb-aa3d-4df6c4e1c369",
+			"application": "uploadtomedialibrary",
+			"title": "Upload to Media Library (Custom Component)",
+			"description": "",
+			"package": {
+				"id": "ed38db07-4846-4dea-a7c8-2d8a2f17371d"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
