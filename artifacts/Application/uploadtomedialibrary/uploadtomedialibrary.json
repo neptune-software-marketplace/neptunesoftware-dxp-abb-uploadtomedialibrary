@@ -249,6 +249,13 @@
 					"response": [],
 					"attributes": [
 						{
+							"attribute": "visible",
+							"grouping": "Properties",
+							"value": "false",
+							"script": "",
+							"translation": []
+						},
+						{
 							"attribute": "type",
 							"grouping": "Properties",
 							"value": "Emphasized",
@@ -319,7 +326,7 @@
 			}
 		]
 	},
-	"ver": "24.02.19.1409",
+	"ver": "24.02.19.1411",
 	"application": "uploadtomedialibrary",
 	"title": "Upload to Media Library (Custom Component)",
 	"description": "",
