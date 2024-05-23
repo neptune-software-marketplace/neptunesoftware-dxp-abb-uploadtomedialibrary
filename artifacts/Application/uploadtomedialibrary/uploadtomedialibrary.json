@@ -318,15 +318,9 @@
 		"topLevelObjects": [
 			"sap.m.VBox"
 		],
-		"containers": [
-			{
-				"id": "48722438-578c-4fbc-e8c3-6ee9d69c6486",
-				"label": "Image",
-				"type": "sap.m.Image"
-			}
-		]
+		"containers": []
 	},
-	"ver": "24.02.19.1411",
+	"ver": "24.05.23.0901",
 	"application": "uploadtomedialibrary",
 	"title": "Upload to Media Library (Custom Component)",
 	"description": "",
